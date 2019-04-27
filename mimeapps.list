@@ -1,0 +1,3 @@
+[Added Associations]
+font/otf=org.gnome.FontViewer.desktop;
+application/x-shellscript=nvim.desktop;

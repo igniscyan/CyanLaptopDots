@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ignis/.config/wpg/wallpapers/subway.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#080504",
+        "foreground": "#dfd5c7",
+        "cursor": "#dfd5c7"
+    },
+    "colors": {
+        "color0": "#080504",
+        "color1": "#554E4C",
+        "color2": "#6E6663",
+        "color3": "#9E6638",
+        "color4": "#84817B",
+        "color5": "#C0904B",
+        "color6": "#9D9996",
+        "color7": "#dfd5c7",
+        "color8": "#9c958b",
+        "color9": "#554E4C",
+        "color10": "#6E6663",
+        "color11": "#9E6638",
+        "color12": "#84817B",
+        "color13": "#C0904B",
+        "color14": "#9D9996",
+        "color15": "#dfd5c7"
+    }
+}

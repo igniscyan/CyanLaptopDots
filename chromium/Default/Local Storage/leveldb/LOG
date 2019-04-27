@@ -1,0 +1,4 @@
+2019/04/26-11:51:29.943 9b5 Reusing MANIFEST leveldb/MANIFEST-000001
+2019/04/26-12:04:23.825 f32 Level-0 table #5: started
+2019/04/26-12:04:23.872 f32 Level-0 table #5: 678110 bytes OK
+2019/04/26-12:04:23.877 f32 Delete type=0 #3

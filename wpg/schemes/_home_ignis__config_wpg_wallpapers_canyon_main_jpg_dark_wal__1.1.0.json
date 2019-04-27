@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ignis/.config/wpg/wallpapers/canyon_main.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0C1717",
+        "foreground": "#80b3b9",
+        "cursor": "#80b3b9"
+    },
+    "colors": {
+        "color0": "#0C1717",
+        "color1": "#034C50",
+        "color2": "#1D5C5E",
+        "color3": "#055964",
+        "color4": "#056870",
+        "color5": "#544C45",
+        "color6": "#998778",
+        "color7": "#80b3b9",
+        "color8": "#597d81",
+        "color9": "#034C50",
+        "color10": "#1D5C5E",
+        "color11": "#055964",
+        "color12": "#056870",
+        "color13": "#544C45",
+        "color14": "#998778",
+        "color15": "#80b3b9"
+    }
+}
